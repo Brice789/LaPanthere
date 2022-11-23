@@ -337,8 +337,6 @@ a:hover {
     background: transparent;
 }
 
-
-
 .navbar-toggle {
     margin: 10px 10px 0 0;
     border: 0px;
@@ -755,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #7b4328 ;
+    background-color: rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -773,20 +771,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color:#7b4328 ;
+    background-color: #7b4328;
 }
 
 .tc-white {
-    color:#000000 !important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine {
-    background: #7b4328 ;
+    background: #7b4328;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #7b4328 !important;
+    background: #7b4328!important;
     color: #FFFFFF!important;
 }
 
@@ -799,11 +797,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #7b4328 !important;
+    color: #7b4328!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #7b4328 !important;
+    color: #7b4328!important;
 }
 
 .icon-dark-slate-blue {
@@ -1046,7 +1044,3 @@ h4 {
     }
 }
 
-
-*:focus {
-    border: gray dashed 1px!important;
-  }
